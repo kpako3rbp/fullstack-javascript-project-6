@@ -1,4 +1,5 @@
 # fastify-nodejs-application
+[Project Link](https://fastify-nodejs-application-hupo.onrender.com/)
 
 [![Node CI](https://github.com/hexlet-boilerplates/fastify-nodejs-application/workflows/Node%20CI/badge.svg)](https://github.com/hexlet-boilerplates/fastify-nodejs-application/actions)
 
